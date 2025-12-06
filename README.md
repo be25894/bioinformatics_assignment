@@ -4,7 +4,7 @@
 ## Key features
 ## Repository structure
  ### python_work(folder)
-* ###### bioinformatics_assignment script (used for amino acid converstion using ORF)
+1- ###### bioinformatics_assignment script (used for amino acid converstion using ORF)
 * ###### amino_translated_without_ORF file (contains amino acids translated using only geneticcode table2 without ORF).
 * ###### translated_amino_acids file (contains the final amino acide translated sequences used for phyogenetic tree construction)
 * ###### all_sequences_combined file (contains all DNA sequences include the references) 
