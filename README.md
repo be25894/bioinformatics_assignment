@@ -64,4 +64,4 @@
 * 20 reference sequences were taken from NCBI (five for each sample).
 *  The i-TOL website was used to view the phylogenteict tree.
 *   star(*) in the files structure means( A B C D) different sample files.
-
+*   Alignment fasta file above is resulted from clustal omega website. 
