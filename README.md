@@ -37,6 +37,7 @@
     * python  : amino acid translation.
     * NCBI    : identify the related references sequences for each sample.
     * EMBL-EBI website : performe the alignment and build the phylogenetic tree.
+    * MEGA software programe visualize the alignments resulting from Clustal Omega.
  * #### packages required
     * pip install biopython  (should be installed in the python terminal0 
 ## Reproducing
