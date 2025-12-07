@@ -26,8 +26,10 @@
     * sample*refernces **files** (each file contains the reference sequences for each sample).
     * all_samples_combined **fastafile** (all the samples sequences).
     * all_sequences_combined **fastafile** ( all the sequences including references ready for translation).
- * ### alignment_results(folder) 
+ * ### alignment_results(folder)
+    * alignment results in fasta file from clustal Omega website
  * ### alignment_result(folder)
+    * screenshots taken from MEGA software programe show the alignment and similarity  
  * ### phylogenetic_tree (HTML file)contain the tree construction reults. 
 ## Installations & programs used 
  * #### programs and websits
@@ -65,4 +67,4 @@
 * 20 reference sequences were taken from NCBI (five for each sample).
 *  The i-TOL website was used to view the phylogenteict tree.
 *   star(*) in the files structure means( A B C D) different sample files.
-*   Alignment fasta file above is resulted from clustal omega website. 
+*   MEGA software program is used to visualize the alignments resulting from Clustal Omega.
