@@ -26,7 +26,7 @@
     * sample*refernces **files** (each file contains the reference sequences for each sample).
     * all_samples_combined **fastafile** (all the samples sequences).
     * all_sequences_combined **fastafile** ( all the sequences including references ready for translation).
- * ### alignment_results (file) contain the alignment results.
+ * ### alignment_results (file).
  * ### phylogenetic_tree (HTML file)contain the tree construction reults. 
 ## Installations & programs used 
  * #### programs and websits
